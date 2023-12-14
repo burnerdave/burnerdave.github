@@ -3,7 +3,7 @@ layout: post
 title: Moving to France & Learning French 
 subtitle: In what ways has the art of mastering French become a metaphor for mastering the skill of learning itself?
 cover-img: /assets/img/eurostar.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/FRA.png
 share-img: /assets/img/FRA.png
 tags: [french, learning, spaced-repetition]
 author: David Light
