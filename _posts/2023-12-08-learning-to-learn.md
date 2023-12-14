@@ -22,4 +22,4 @@ I learnt how to turn my frustration of language barrier in to motivation, I had 
 
 When I gave myself no other choice, forward became the only option.
 
-![tour-eiffel](https://dtlight.github.io/assets/img/tour-eiffel.jpeg){: .mx-auto.d-block :}
+![tour-eiffel](/assets/img/tour-eiffel.jpeg){: .mx-auto.d-block :}
